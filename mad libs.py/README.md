@@ -1,6 +1,6 @@
-### Project 1: Weather App 
-**Summary**: This program allows users to input a city name and displays the current weather using an API. 
+### Project 5: Madlibs
+**Summary**: This program allows users to create a funny story
 **Key Features**: 
-- Fetches live weather data.
-- Displays temperature, humidity, and weather conditions. 
-- Handles invalid inputs gracefully.  
+- lengthy
+- funny
+- asks for nouns, plural nouns, adjectives, verb ending in -ing
